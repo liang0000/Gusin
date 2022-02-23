@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/54095039/155366847-c151ded9-cd5f-4faf-a761-5f814011287c.png" width="250"> <img src="https://user-images.githubusercontent.com/54095039/155366814-6bf3d743-b4cb-4885-bd7c-030137a3d2eb.png" width="250"> <img src="https://user-images.githubusercontent.com/54095039/155366851-2fcd8da2-83d3-4f13-9c07-e321ec87874a.png" width="250">
 
 ### App Demo
-[Gusin](https://www.youtube.com/watch?v=OPm0MeUqMao)
+[Guswin](https://www.youtube.com/watch?v=OPm0MeUqMao)
 
 ### Admin Login
 - Email Address: adminuser@gmail.com
