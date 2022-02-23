@@ -1,4 +1,4 @@
-## Gusin
+## Guswin
 - Online Lifestyle Shop Web
 - ASP.NET (C# & SQL)
 
@@ -7,3 +7,8 @@
 
 ### App Demo
 [Gusin](https://www.youtube.com/watch?v=OPm0MeUqMao)
+
+### Admin Login
+- Email Address: adminuser@gmail.com
+- Password: adminuser123
+- Position: tengworks
