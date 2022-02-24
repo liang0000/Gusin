@@ -2,7 +2,7 @@
 - Online Lifestyle Shop Web
 - ASP.NET (C# & SQL & HTML & CSS)
 
-### User Manual
+### User Manual (Mobile View)
 <img src="https://user-images.githubusercontent.com/54095039/155366853-9590da92-405b-4941-ba5d-7ee668685b19.png" width="250"> <img src="https://user-images.githubusercontent.com/54095039/155366855-4ece6859-9ee4-4011-8c13-006bc980ba5f.png" width="250"> <img src="https://user-images.githubusercontent.com/54095039/155366836-9bc63f08-c62d-43be-84fb-95da0fc8afad.png" width="250">
 
 <img src="https://user-images.githubusercontent.com/54095039/155366839-53128990-3449-49b1-bc32-70e2055fbe92.png" width="250"> <img src="https://user-images.githubusercontent.com/54095039/155366828-e424c898-34a5-4737-97e9-d0c900f6657e.png" width="250"> <img src="https://user-images.githubusercontent.com/54095039/155366834-2437b4c1-0abc-4be4-90a3-001559ed3bdb.png" width="250">
