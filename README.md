@@ -1,6 +1,6 @@
 ## Guswin
 - Online Lifestyle Shop Web
-- ASP.NET (C# & SQL)
+- ASP.NET (C# & SQL & HTML & CSS)
 
 ### User Manual
 <img src="https://user-images.githubusercontent.com/54095039/155366853-9590da92-405b-4941-ba5d-7ee668685b19.png" width="250"> <img src="https://user-images.githubusercontent.com/54095039/155366855-4ece6859-9ee4-4011-8c13-006bc980ba5f.png" width="250"> <img src="https://user-images.githubusercontent.com/54095039/155366836-9bc63f08-c62d-43be-84fb-95da0fc8afad.png" width="250">
